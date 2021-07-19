@@ -1,0 +1,1 @@
+/dbscript/dbimport.sh & /opt/mssql/bin/sqlservr
